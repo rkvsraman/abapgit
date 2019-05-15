@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 PROGRAM z_heelo_2.
-WRITE 'Hello World'.
+WRITE 'Welcome to ABAP GIT Demo'.
